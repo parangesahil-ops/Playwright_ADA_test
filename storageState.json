@@ -1,0 +1,146 @@
+{
+  "cookies": [
+    {
+      "name": "CloudFront-Key-Pair-Id",
+      "value": "K124QIEH7NU1LS",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/cms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Signature",
+      "value": "t6Rmyh7IbHFgI5rfRpPv6~SFZi65o1zhqcPIMsGAS--we5zdM3ohS1BSBmPgwqeoWXNPnJvrHlkmOudewVTv-zSl~Z0ypgOJE1tUGHTNxv6ekK8fF2rE8QYcTpYYEBRIPB0a844gJfnkhdLzDckYXLRThUQymoDnOLNAK~oPAEAyaLxq3iTkR8vDAtdJDkub33NSy4381Eq3XeqKck8oDMmp~0xljnS82-3ov72yGuZkddr~erFaoK5ghgGhfZtdlCopFbVb-cEeBmMVVp9cDG7y-6m8ULdqOOB-DnpHVuWIQQzC2FFnhRxHIksW2ISKgps0XpkW-fS3LP3~QmWAig__",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/cms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Policy",
+      "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZXhwbG9yZS1zdGFnaW5nLm15YWRhbWF0aC5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTM4Njc2Mn0sIkRhdGVHcmVhdGVyVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzgxMzUyfX19XX0_",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/cms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Key-Pair-Id",
+      "value": "K124QIEH7NU1LS",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/lms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Signature",
+      "value": "t6Rmyh7IbHFgI5rfRpPv6~SFZi65o1zhqcPIMsGAS--we5zdM3ohS1BSBmPgwqeoWXNPnJvrHlkmOudewVTv-zSl~Z0ypgOJE1tUGHTNxv6ekK8fF2rE8QYcTpYYEBRIPB0a844gJfnkhdLzDckYXLRThUQymoDnOLNAK~oPAEAyaLxq3iTkR8vDAtdJDkub33NSy4381Eq3XeqKck8oDMmp~0xljnS82-3ov72yGuZkddr~erFaoK5ghgGhfZtdlCopFbVb-cEeBmMVVp9cDG7y-6m8ULdqOOB-DnpHVuWIQQzC2FFnhRxHIksW2ISKgps0XpkW-fS3LP3~QmWAig__",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/lms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Policy",
+      "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vZXhwbG9yZS1zdGFnaW5nLm15YWRhbWF0aC5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTM4Njc2Mn0sIkRhdGVHcmVhdGVyVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzgxMzUyfX19XX0_",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/02/data/lms",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Key-Pair-Id",
+      "value": "K124QIEH7NU1LS",
+      "domain": ".myadamath.com",
+      "path": "/ca27",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Signature",
+      "value": "h1BoiHXUo0lhB3bXZ1KV83AJwglD6BTw47LggXFa7eWWxW4N5joORKWJaOwXN9VUCkOlOP2R~acBw-kcSBHzB4BFnh80wPfIHokQOXvQHNYezsUgL6wyX29FAH-jayC3YrCeU8lEocNdVUb5yaMg8iulo~zoHEz-EcIt5I9K1AGjw3P8rWS62BP1oczYAbC711QQ4EjVOCx2SUpPMmAEqghpuF0zIDTc8Nory4JEkSl71hiBsXln2bCtb90nHqI6c6FAYpsqaYc8XWd9ana~XekOHiVB9o~O9QtY9DKOtQkxS-wdaxp26sgyod-8l14iiR777sXA0AZabJw~9K4jIA__",
+      "domain": ".myadamath.com",
+      "path": "/ca27",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CloudFront-Policy",
+      "value": "eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vYXB0Lm15YWRhbWF0aC5jb20vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTM4Njc2Mn0sIkRhdGVHcmVhdGVyVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxMzgxMzYyfX19XX0_",
+      "domain": ".myadamath.com",
+      "path": "/ca27",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "emulation-id",
+      "value": "de871934-1f43-4cf0-bf2e-f8486f6def8e",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "auth",
+      "value": "CfDJ8MWX1rgPUIVMmrSlRdoSM1ucdXcxVOft95Jb8WajXuKwqd6kGUQF9iRmfRvV4BmQH5flNJ3fqLq89BiRPyGDvgpp4UcWHlC2AcOsDnDM9ENhfsxT1VmZwfr18PIgPLRNEzlMmbF6rJVqAv1P0W6ahZaO-O6iail1jDgE1uIOfYPJxmoGvBSdbfeyFsWgOWu7PnE77g80VFsr7t42taU5-TYoqPUDRyESwSjo2xBUknE2Gbjmg8NdyQvdaap56Ha1E2x5cOgg8GX6I4yO0IXCFBSHHSTY8SAVGUlmIiovM7xZfiLOchoHXUJyFg-qx3ngYc3lngeUQH12WDs2YK8fgqxysCNgMKYvFqnBGB4r4XGCkDrPXso54vZ4pGgD3KGMARZYKwdR7t_FvuKuvC-Zn8anqvduIQl529fn4G6lDyTqKy10Fb-2X1lmG1bjtRGaytxjlRGSNZx9VEtqIQIlncIhYEuOFwxCBEYu9jQ9ctHBZVttZ6yDFKqcIzOn2iuekiY3dWW0Qt2rWvHzbF8WzXczohpYGZJVBCSliNifn9xmdX0ce2IvXFKnNkRqB0q2cWS8sHXQ-oOdjVI8u_RfC8IPJo964njIqbRN5116COlWz3iajOF0EmfNvIThqMeWgTgsl--BEj9o52nX--5Kn10JvNqiETRHcVSDrunyiRgKECsc7T8uiwYJF-8SbmDQhnqlVAR9WVt1nj4v3k0n21nKKIgVVI9IpVYW1KsVmKoD2UunCz-m--BpkIy_asXpHLtlQtuZdRKhMQFpNU3XPyEsZwXWjwvwQtQVzTNnmpIIfJ2KLAQ2qK1RPBRFkAtl3VJPuWIk1j5ZKlwQnNfvzbC1TQqWChyWcDc4NXiHyeHLLYCIu3ZfEQ96TFTeCEh-u76oJ2YiHsMkTu7aP7wghVuzYqXpHSktrdJAXGZ3n_4aEQWyiOj_Q8D_ZXq65ybB_UCA68VONIelJ6qWKPAL-rj4JRUMxq1XDG-p60bc81-JO4iIvH3Wzuyw2gTk1Y-RqMUiRqsFI-lPvLgIS1i_nPzlTuscLm4qhupC8gzheNLHPTHAEvwgmJkb9TmwEyAq-ZgZbYESJEho94Bn8l9jH96bFrtHyBrSCOjUJLsb61ZWRwBDY7BEa7mif7rhvGvM-2sQ48QHTFI8tSRn93C7GJCz0fk5BqStbWrAO27z7I-x2QF9JSCzGkMtcRt3ZJIKheCHQDaoUE4KEccrh_MwSMa8r1G8DiKLtbfwWuXLTOu1oYUyBO2gH06t2Mhtc-Ay5YeVanl9UG1_aBsbITM_75SOQGVcdqsYUjUoA_VHCOMYt3BkI4LCg1r39bUiwuHa7nhYurq0LOVSJNWOWrtdSxiQy8nD119COpduUbB3rBfm0OTTQ_0eqVMWR4oXUZMPLT7DbobxTyLuFPAmFD7ADcBOZ0nC5-dQj86g3gHIax8Zj70ShRaL8snGZzwHzUmJ7hF5LgdXZIwbf8nwrfR_1-Fn7FcnC5Jq9JZ9bgfc1zGR06LfEIZQ8YTjEKhYFoJ20qlvePYWBFg5XiY0g_DgRkwDtNO8rlMYzpK9jpJ4pgTfafd3Mbzboqk8ExcZoQ7I4Q",
+      "domain": "explore-staging.myadamath.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://explore-staging.myadamath.com",
+      "localStorage": [
+        {
+          "name": "/login@null",
+          "value": "null"
+        },
+        {
+          "name": "isSessionActive",
+          "value": "true"
+        },
+        {
+          "name": "1@banner",
+          "value": "[]"
+        },
+        {
+          "name": "/login@login-url",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://wtn4qp9hyf8y.statuspage.io",
+      "localStorage": [
+        {
+          "name": "wtn4qp9hyf8y.statuspage.io_dismissed",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
